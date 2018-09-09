@@ -108,7 +108,7 @@ class App extends Component {
           <Grid>
             <Navbar.Header>
               <Navbar.Brand>
-                <a href="/">React App</a>
+                <a href="/">ExpoSé</a>
               </Navbar.Brand>
               <Navbar.Toggle />
             </Navbar.Header>
@@ -116,7 +116,7 @@ class App extends Component {
         </Navbar>
         <Jumbotron>
           <Grid>
-            <h1>Welcome to React</h1>
+            <h1>Welcome to ExpoSé</h1>
             <p>
               <Button
                 bsStyle="success"
