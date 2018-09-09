@@ -1,5 +1,9 @@
+// With normal bootstrap, import these
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/css/bootstrap-theme.css';
+
+// With customized bootstrap
+// import 'custom-bootstrap';
 
 import React from 'react';
 import ReactDOM from 'react-dom';

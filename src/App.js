@@ -98,7 +98,7 @@
 // export default BasicExample;
 
 import React, { Component } from 'react';
-import { Grid, Navbar, Jumbotron, Button } from 'react-bootstrap';
+import { Grid, Navbar, Jumbotron, Button, Alert } from 'react-bootstrap';
 
 class App extends Component {
   render() {
@@ -121,7 +121,7 @@ class App extends Component {
               <Button
                 bsStyle="success"
                 bsSize="large"
-                href="http://react-bootstrap.github.io/components.html"
+                href="https://react-bootstrap.github.io/getting-started/introduction"
                 target="_blank"
               >
                 View React Bootstrap Docs
@@ -129,8 +129,14 @@ class App extends Component {
             </p>
           </Grid>
         </Jumbotron>
+        <div>
+          <Alert bsStyle="warning">
+            <strong>Holy guacamole!</strong> Best check yo self, you're not looking too
+            good.
+        </Alert>
+        </div>
       </div>
-    );
+    )
   }
 }
 
