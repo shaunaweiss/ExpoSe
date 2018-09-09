@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # ExpoSe
 
 This app was developed using the node_modules create-react-app in order to generate a boilerplate version of a React Application. Used a codeacademy tutorial located at https://www.codecademy.com/articles/how-to-create-a-react-app.
@@ -2491,9 +2489,3 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
-<<<<<<< HEAD
-
-
-=======
-# ExpoSe
->>>>>>> ff41c9e25c924793fa6b9c4dd67befa5c7d0d288
