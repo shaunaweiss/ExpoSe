@@ -1,3 +1,9 @@
+
+# ExpoSe
+
+This app was developed using the node_modules create-react-app in order to generate a boilerplate version of a React Application. Used a codeacademy tutorial located at https://www.codecademy.com/articles/how-to-create-a-react-app.
+
+____________________________________________________________________________________ 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2487,30 +2493,3 @@ If you have ideas for more “How To” recipes that should be on this page, [le
 <<<<<<< HEAD
 
 
-
-___________________________________________________________________________________________________________________________________
-
-# ExpoSe
-
-This app was developed using the node_modules create-react-app in order to generate a boilerplate version of a React Application. Used a codeacademy tutorial located at https://www.codecademy.com/articles/how-to-create-a-react-app. 
-
-
-# Commnads:
-
-# npm start 
-Starts the development server
-
-# npm run build 
-Bundles the app into static files for production
-
-# npm test
-Starts the test runner
-
-# npm run eject
- Removes this tool and copies build dependencies, configuration files
- and scripts into the app directory. If you do this, you can’t go back!
-
-Begin by 'cd expose'
-run 'npm start'
-=======
->>>>>>> newStart
